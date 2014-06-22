@@ -1,0 +1,57 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: AndroidManifest.xml
+SHA1-Digest: /bCIys3XB0E1A5Zyr7qkwJ7iyUA=
+
+Name: assets/vs_loading_blood.png
+SHA1-Digest: uY5IP7gSJEEDgERb6I7OoMwxpTk=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: assets/loading.png
+SHA1-Digest: +JC+pYHa4ZeksEWf+8aC9Ez2tiM=
+
+Name: assets/HelloWorld.png
+SHA1-Digest: tlCDturH7ovoyz2c7+EM3+0ot7A=
+
+Name: assets/CloseSelected.png
+SHA1-Digest: jAGLZR1Zw3vujySy5fwK5FRJTgA=
+
+Name: assets/kakao_loading_bk.jpg
+SHA1-Digest: Dg0uI7ojrhKgAleib/mdYpGL7UQ=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: OYP0fmoBv0RBIEKWcLuylSf7DqA=
+
+Name: assets/CloseNormal.png
+SHA1-Digest: /QGcO1MOwaLN1VS5dk86sEDqqKA=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: hc99Po+p3TRImQcNuzcSNC7tpNw=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: u5cm0bYz9wbXlHD4n60oilbdZcU=
+
+Name: assets/map_europe.jpg
+SHA1-Digest: DGrFPSQkhrHvMKuK4LAJrUyqgt4=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: nFMzxotJRQ5x1a+HbINp/MxJsGA=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: cQ3w5oXjP5DpLByk5c8F/LUcex4=
+
+Name: assets/loading_3.png
+SHA1-Digest: xuOs1BfkZHYihgVO1xjYrJX1Xwo=
+
+Name: resources.arsc
+SHA1-Digest: RTFqBSTtEY+qgu7blnofR9ts3G8=
+
+Name: assets/vs_loading_bg.png
+SHA1-Digest: xtf2ZZlHd7LzpFPK1EFbkN2ZZ9M=
+
+Name: classes.dex
+SHA1-Digest: BFfL1Bt7Y10xYAnBHTxVE9p957g=
+
